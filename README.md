@@ -1,1 +1,1 @@
-# GDSC-ML
+# Convolutional Neural Network Implementation from scratch
